@@ -1,7 +1,11 @@
-echo "# Zuka" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ZkAleeJoo/Zuka.git
-git push -u origin main
+--Bienvenido al canal de Update de ZUKA--
+\Como tal el código del bot no es público - hay que tener en cuenta esto\
+
+- Por acá se estarán dando todas las updates
+- EL BOT es completamente hecho en español (Salvo algunos nombre de los comandos)
+- Cualquier duda o pregunta por el servidor oficial de discord
+
+
+/Se agregarán más cosas en este apartado durante el transcurso del tiempo/
+
+- También se estarán agregando comando free en este Repositorio<3
